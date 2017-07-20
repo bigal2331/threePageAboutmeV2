@@ -1,0 +1,50 @@
+
+body {
+	background-image: url("http://c1.staticflickr.com/9/8450/8026519634_f33f3724ea_b.jpg ");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	margin: 0 auto;
+}
+
+header {
+	background-color: black;
+	height: 50px;
+}
+
+#myInitials {	
+	
+	font-size: 50px;
+	vertical-align: center;
+}
+
+#container {
+	text-align: center;
+}
+
+nav {
+	float: right;
+	line-height: 30px;
+
+	
+}
+nav li {
+	display: inline-block;
+	margin-left: 1.5em;
+}
+
+nav li a {
+	color: white;
+}
+
+#imgPortfolio {
+	padding-top: 50px;
+}
+#imgPortfolio img {
+	text-align: center;
+	float: left;
+	padding-left: 10px;
+	padding-top: 10px;
+	width: 30%;
+	border: 1.5px solid white;
+}
